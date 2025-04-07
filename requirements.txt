@@ -1,0 +1,10 @@
+selenium
+beautifulsoup4
+requests
+dicttoxml
+jupyter 
+streamlit
+pandas
+plotly
+watchdog
+geopy
