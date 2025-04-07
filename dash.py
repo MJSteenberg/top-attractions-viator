@@ -54,7 +54,7 @@ def load_data():
     possible_paths = [
         "attraction_details.csv",
         "data/processed/attraction_details.csv",
-        "attractions/viator-attractions-scraper/data/processed/attraction_details.csv",
+        "viator-attractions-scraper/data/processed/attraction_details.csv",
         "../attractions/viator-attractions-scraper/data/processed/attraction_details.csv"
     ]
     
